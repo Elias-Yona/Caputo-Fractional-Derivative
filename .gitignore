@@ -38,4 +38,5 @@ octave-workspace
 
 resources/
 
-*.mltbx
+*.mltbxtest.m
+test.m
